@@ -9,3 +9,7 @@ I took a course in advanced C++ programming, focusing on language constructs, ob
 | Time |  Assigment to construct a program module that represent a point in time.  | References, value categories, classes/structs and operator overloading |
 | Vector | Create a class Vector that represents a 2-dimensional vector     | object-oriented programming and operator overloading | 
 | Static Queue | Create a template class for a static queue.    | class temlates, nontype template parameters, member function templates, class template design | 
+
+| Exam   |      Description      | Subject |
+|----------|:-------------:|:-------: |
+| 2024-05-31  | <ul><li>item1</li><li>item2</li><li>item3</li></ul> |            |
